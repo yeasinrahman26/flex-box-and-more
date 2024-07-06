@@ -1,0 +1,18 @@
+.parent{
+    padding: 25px;
+    background-color: aqua;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    height: 300px;
+    align-items:center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.child, .class{
+    border: 2px solid rgb(14, 7, 7);
+    background: rgb(224, 190, 36);
+    padding: 20px;
+    margin: 10px 0;
+}
